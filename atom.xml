@@ -4,7 +4,7 @@
   <title><![CDATA[JoeyChan's Blog]]></title>
   <link href="http://iiapache.github.io/atom.xml" rel="self"/>
   <link href="http://iiapache.github.io/"/>
-  <updated>2013-10-25T15:06:13+08:00</updated>
+  <updated>2013-10-25T16:48:53+08:00</updated>
   <id>http://iiapache.github.io/</id>
   <author>
     <name><![CDATA[JoeyChan]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Create your blog using Octopress]]></title>
+    <link href="http://iiapache.github.io/blog/2013/10/25/create-your-blog-using-octopress/"/>
+    <updated>2013-10-25T16:48:00+08:00</updated>
+    <id>http://iiapache.github.io/blog/2013/10/25/create-your-blog-using-octopress</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
