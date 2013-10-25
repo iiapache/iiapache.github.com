@@ -4,7 +4,7 @@
   <title><![CDATA[乔伊橙C的部落格]]></title>
   <link href="http://iiapache.github.io/atom.xml" rel="self"/>
   <link href="http://iiapache.github.io/"/>
-  <updated>2013-10-25T18:54:49+08:00</updated>
+  <updated>2013-10-25T20:30:49+08:00</updated>
   <id>http://iiapache.github.io/</id>
   <author>
     <name><![CDATA[JoeyChan]]></name>
@@ -18,8 +18,11 @@
     <link href="http://iiapache.github.io/blog/2013/10/24/hello-world/"/>
     <updated>2013-10-24T23:02:00+08:00</updated>
     <id>http://iiapache.github.io/blog/2013/10/24/hello-world</id>
-    <content type="html"><![CDATA[<p>Hello World.
-This is my github blog based on octopress.Welcome to here.</p>
+    <content type="html"><![CDATA[<p>Hello,my friends.I am <strong>JoeyChan</strong>,</p>
+
+<p>This is my blog on Github. Welcome to here. Glad to be your friend!</p>
+
+<p><img src="http://img1.3lian.com/img2011/04/20/s/24.jpg" alt="hello world" /></p>
 ]]></content>
   </entry>
   
