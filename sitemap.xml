@@ -2,22 +2,18 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://iiapache.github.io/blog/2013/10/24/hello-world/</loc>
-        <lastmod>2013-10-25T15:01:50+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://iiapache.github.io/blog/2013/10/25/create-your-blog-using-octopress/</loc>
-        <lastmod>2013-10-25T16:48:26+08:00</lastmod>
+        <lastmod>2013-10-25T17:16:06+08:00</lastmod>
     </url>
     <url>
         <loc>http://iiapache.github.io/blog/archives/</loc>
-        <lastmod>2013-10-25T16:48:26+08:00</lastmod>
+        <lastmod>2013-10-25T17:16:06+08:00</lastmod>
     </url>
     <url>
         <loc>http://iiapache.github.io/</loc>
-        <lastmod>2013-10-25T16:48:26+08:00</lastmod>
+        <lastmod>2013-10-25T17:16:06+08:00</lastmod>
     </url>
     <url>
         <loc>http://iiapache.github.io/robots.txt</loc>
-        <lastmod>2013-10-24T23:44:16+08:00</lastmod>
+        <lastmod>2013-10-25T17:16:06+08:00</lastmod>
     </url>
 </urlset>
