@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[JoeyChan's Blog]]></title>
+  <title><![CDATA[乔伊橙C的部落格]]></title>
   <link href="http://iiapache.github.io/atom.xml" rel="self"/>
   <link href="http://iiapache.github.io/"/>
-  <updated>2013-10-25T17:18:26+08:00</updated>
+  <updated>2013-10-25T18:54:49+08:00</updated>
   <id>http://iiapache.github.io/</id>
   <author>
     <name><![CDATA[JoeyChan]]></name>
