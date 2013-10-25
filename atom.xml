@@ -4,7 +4,7 @@
   <title><![CDATA[JoeyChan's Blog]]></title>
   <link href="http://iiapache.github.io/atom.xml" rel="self"/>
   <link href="http://iiapache.github.io/"/>
-  <updated>2013-10-25T14:57:40+08:00</updated>
+  <updated>2013-10-25T15:06:13+08:00</updated>
   <id>http://iiapache.github.io/</id>
   <author>
     <name><![CDATA[JoeyChan]]></name>
@@ -18,7 +18,7 @@
     <link href="http://iiapache.github.io/blog/2013/10/24/hello-world/"/>
     <updated>2013-10-24T23:02:00+08:00</updated>
     <id>http://iiapache.github.io/blog/2013/10/24/hello-world</id>
-    <content type="html"><![CDATA[<p>Hello World
+    <content type="html"><![CDATA[<p>Hello World.
 This is my github blog based on octopress.Welcome to here.</p>
 ]]></content>
   </entry>
