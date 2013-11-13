@@ -4,7 +4,7 @@
   <title><![CDATA[乔伊橙C的部落格]]></title>
   <link href="http://iiapache.github.io/atom.xml" rel="self"/>
   <link href="http://iiapache.github.io/"/>
-  <updated>2013-11-13T21:22:30+08:00</updated>
+  <updated>2013-11-13T23:13:09+08:00</updated>
   <id>http://iiapache.github.io/</id>
   <author>
     <name><![CDATA[JoeyChan]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p>在数据分析和数据挖掘的过程中，我们经常需要知道个体间差异的大小，进而评价个体的相似性和类别。最常见的是数据分析中的相关分析，数据挖掘中的分类和聚类算法，如K最近邻（KNN）和K均值（K-Means）。当然衡量个体差异的方法有很多，最近查阅了相关的资料，这里整理罗列下。</p>
 
 <p>为了方便下面的解释和举例，先设定我们要比较X个体和Y个体间的差异，它们都包含了N个维的特征，即X=（x1， x2， x3， … xn），Y=（y1， y2， y3， … yn）。下面来看看主要可以用哪些方法来衡量两者的差异，主要分为距离度量和相似度度量。</p>
+
+<!--more-->
+
 
 <h2>距离度量</h2>
 
