@@ -11,7 +11,7 @@ keywords: Machine Learning distance similarity
 
 
 为了方便下面的解释和举例，先设定我们要比较X个体和Y个体间的差异，它们都包含了N个维的特征，即X=（x1， x2， x3， … xn），Y=（y1， y2， y3， … yn）。下面来看看主要可以用哪些方法来衡量两者的差异，主要分为距离度量和相似度度量。
-
+<!--more-->
 
 ##距离度量
 
